@@ -1,0 +1,24 @@
+{
+  "id": "example",
+  "title": "방꾸툰 샘플 작품",
+  "author": "운영자",
+  "smalltitle": "새로운 이야기의 시작",
+  "explain": "웹툰 데이터 구조를 확인하기 위한 샘플 작품입니다.",
+  "genre": "판타지",
+  "cover": "/covers/example.webp",
+  "status": "ongoing",
+  "price": 0,
+  "part": 1,
+  "parts": [
+    {
+      "id": "episode-1",
+      "title": "1화 - 시작",
+      "price": 0,
+      "type": "scroll",
+      "pages": [
+        "/episodes/example/1/001.webp",
+        "/episodes/example/1/002.webp"
+      ]
+    }
+  ]
+}
